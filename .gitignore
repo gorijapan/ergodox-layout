@@ -1,0 +1,5 @@
+/log
+.env
+tags
+tags.lock
+.DS_Store
