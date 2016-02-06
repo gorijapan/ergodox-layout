@@ -232,6 +232,10 @@
                     "key": "ESCAPE",
                     "label": "ESC"
                 },
+                "1": {
+                    "key": "LCK7",
+                    "label": "LOCK-7"
+                },
                 "3": {
                     "key": "PRINTSCREEN",
                     "label": "PRSC"
@@ -890,6 +894,10 @@
                     "key": "LSHIFT",
                     "label": "L\u21d1"
                 },
+                "1": {
+                    "key": "LSHIFT",
+                    "label": "L\u21d1"
+                },
                 "3": {
                     "key": "LSHIFT",
                     "label": "L\u21d1"
@@ -945,8 +953,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 },
                 "3": {
                     "key": "HOME",
@@ -999,8 +1007,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 },
                 "4": {
                     "key": "FUN1",
@@ -1766,6 +1774,10 @@
                     "key": "SEMICOLON",
                     "label": ";"
                 },
+                "1": {
+                    "key": "QUOTE",
+                    "label": "'"
+                },
                 "3": {
                     "key": "SEMICOLON",
                     "label": ";"
@@ -1794,6 +1806,10 @@
                 "0": {
                     "key": "QUOTE",
                     "label": "'"
+                },
+                "1": {
+                    "key": "EQUAL",
+                    "label": "="
                 },
                 "3": {
                     "key": "#:'#'",
@@ -2184,6 +2200,10 @@
                     "key": "SPACE",
                     "label": "[&nbsp;]"
                 },
+                "1": {
+                    "key": "EQUAL",
+                    "label": "="
+                },
                 "4": {
                     "key": "FUN1",
                     "label": "\u01921"
@@ -2206,8 +2226,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "LEFT",
+                    "label": "\u2190"
                 },
                 "1": {
                     "key": "#:'|'",
@@ -2239,8 +2259,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "DOWN",
+                    "label": "\u2193"
                 },
                 "3": {
                     "key": "#:'{'",
@@ -2268,8 +2288,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "UP",
+                    "label": "\u2191"
                 },
                 "3": {
                     "key": "#:'}'",
@@ -2297,8 +2317,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 },
                 "3": {
                     "key": "#:'|'",
@@ -2326,8 +2346,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 },
                 "1": {
                     "key": "F12",
